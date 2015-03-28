@@ -39,7 +39,7 @@ function pitchpeek(elementId,optionalArguments){
 	 */
 	this.options = {
     	initTour:true,
-		renderMode:'webgl',
+		renderMode:'html5',
 		initialPano:'dwFEQYodwY0AAAQXL2YgRA',
 		disableDefaultUI: false,
 		addressControl: false,
